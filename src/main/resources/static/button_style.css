@@ -1,0 +1,7 @@
+button {
+    transition: opacity 0.3s ease;
+}
+
+button.highlighted {
+    opacity: 0.3;
+}

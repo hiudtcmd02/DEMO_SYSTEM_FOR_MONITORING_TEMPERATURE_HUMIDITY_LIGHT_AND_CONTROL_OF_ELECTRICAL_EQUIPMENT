@@ -1,0 +1,9 @@
+.navbar-avatar {
+    display: flex;
+    align-items: center;
+    padding: 10px;
+}
+.avatar-name {
+    font-size: 14px;
+    font-weight: 500;
+}
