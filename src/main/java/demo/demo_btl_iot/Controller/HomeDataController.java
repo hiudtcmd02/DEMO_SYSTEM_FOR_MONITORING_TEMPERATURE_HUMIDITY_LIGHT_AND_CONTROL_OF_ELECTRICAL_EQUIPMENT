@@ -46,7 +46,7 @@ public class HomeDataController {
 
         LocalDateTime currentTime = LocalDateTime.now();
         Action a = new Action();
-        a.setClientName("Đinh Trung Hiếu");
+        a.setClientName("Tên người dùng");
         a.setDeviceName("Đèn");
         a.setState("ON");
         a.setDateTime(currentTime);
@@ -62,7 +62,7 @@ public class HomeDataController {
 
         LocalDateTime currentTime = LocalDateTime.now();
         Action a = new Action();
-        a.setClientName("Đinh Trung Hiếu");
+        a.setClientName("Tên người dùng");
         a.setDeviceName("Đèn");
         a.setState("OFF");
         a.setDateTime(currentTime);
@@ -78,7 +78,7 @@ public class HomeDataController {
 
         LocalDateTime currentTime = LocalDateTime.now();
         Action a = new Action();
-        a.setClientName("Đinh Trung Hiếu");
+        a.setClientName("Tên người dùng");
         a.setDeviceName("Quạt");
         a.setState("ON");
         a.setDateTime(currentTime);
@@ -94,7 +94,7 @@ public class HomeDataController {
 
         LocalDateTime currentTime = LocalDateTime.now();
         Action a = new Action();
-        a.setClientName("Đinh Trung Hiếu");
+        a.setClientName("Tên người dùng");
         a.setDeviceName("Quạt");
         a.setState("OFF");
         a.setDateTime(currentTime);
