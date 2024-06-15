@@ -17,4 +17,4 @@ DEMO HỆ THÔNG THEO DÕI NHIỆT ĐỘ, ĐỘ ẨM, ÁNH SÁNG VÀ BẬT TẮT
    + Frontend: HTML, CSS, JavaScript
    + Backend: Java
    + Database: MySQL
-   + Framework: Bootstrap, Thymeleaf, REST API, Spring JPA
+   + Framework: Bootstrap, Thymeleaf, Restful API, Spring JPA
